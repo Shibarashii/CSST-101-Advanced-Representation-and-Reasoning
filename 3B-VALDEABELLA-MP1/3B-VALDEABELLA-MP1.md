@@ -1,4 +1,4 @@
-### Introduction to AI and Knowledge Representation**
+### Introduction to AI and Knowledge Representation
 **Artificial Intelligence and Knowledge Representation**
 - **What is AI?**: AI refers to machines designed to mimic human intelligence by performing tasks like learning and decision-making.
 - **Why is Knowledge Representation important?**: Knowledge representation structures information in a way that AI can reason, learn, and make decisions efficiently.
