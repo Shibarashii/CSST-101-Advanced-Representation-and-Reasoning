@@ -1,3 +1,3 @@
-# CSST 101
+# CSST 101 - Advanced Representation and Reasoning
 
-This will store all the activities in CSST 101
+Repository for the activities in the course Advanced Representation and Reasoning
